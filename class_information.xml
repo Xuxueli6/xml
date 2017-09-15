@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+<![CDATA[这是一个班级信息描述的xml文件]]>
+<Student id="1">
+	<num>20150987</num>
+	<name>小明</name>
+	<sex>男</sex>
+</Student>
+<student id="3">
+	<num>219283939</num>
+	<name>小东</name>
+	<sex>男</sex>
+</student>
+<student id="4">
+	<num>23348399</num>
+	<name>小红</name>
+	<sex>女</sex>
+</student>
+<student id="5">
+	<num>283839493</num>
+	<name>小青</name>
+	<sex>女</sex>
+</student>
+<student id="6">
+	<num>28389493</num>
+	<name>小刚</name>
+	<sex>男</sex>
+</student>
+
+</class>
